@@ -1,5 +1,5 @@
 {
-  "name": "simplefolio",
+  "name": "tutor_cv",
   "version": "1.0.1",
   "private": "true",
   "description": "A clean, beautiful and responsive portfolio template for Developers!",
@@ -10,15 +10,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/cobidev/simplefolio"
+    "url": "https://github.com/tukumann/tutor-cv.git"
   },
   "keywords": [],
-  "author": "Jacobo Martinez",
+  "author": "Tim Iurov",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/cobidev/simplefolio/issues"
+    "url": "https://github.com/tukumann/tutor-cv.git/issues"
   },
-  "homepage": "https://github.com/cobidev/simplefolio#readme",
+  "homepage": "https://github.com/tukumann/tutor-cv.git#readme",
   "devDependencies": {
     "@parcel/transformer-sass": "^2.0.1",
     "parcel": "^2.0.1",
